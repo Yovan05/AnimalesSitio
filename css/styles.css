@@ -79,3 +79,16 @@ h1{
     padding: 10px;
 }
 
+.imag{
+    width: 300px;
+    height: 200px;
+}
+
+p{
+    font-family: "Helvetica", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    line-height: 1.50;
+    color: #10e51b;
+    background-color:rgb(48, 47, 88);
+    margin: 0;
+}
